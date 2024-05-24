@@ -1,4 +1,4 @@
-# YetGen-Core-Python-2024
+# YetGenCorePython2024
 
 ## Program Katılımcısı
 
